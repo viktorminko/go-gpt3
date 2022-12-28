@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/sashabaranov/go-gpt3"
+	. "github.com/viktorminko/go-gpt3"
 )
 
 func TestClient_CreateImageCreate(t *testing.T) {
